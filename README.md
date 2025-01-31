@@ -1,4 +1,4 @@
-![logo](https://github.com/SRI3031/SRI3031/commit/ecf5439dc72ac0042989b00d84dcec2dd0387e22#diff-780b36315897b0b778e2ee6bcb1191efe19023a4f98ffba158ef1e49dcb7890e)
+![logo](https://github.com/SRI3031/SRI3031/blob/main/Black%20and%20White%20Modern%20Artificial%20Intelligence%20Presentation.jpg)
 <h1 align="center">Hi 👋, I'm SRIJEETA BISWAS</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
