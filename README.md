@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri3031&label=Profile%20views&color=0e75b6&style=flat" alt="sri3031" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **FULL STACK DEVLOPMENT**
 
 - 📫 How to reach me **srijeetabiswas310@gmail.com**
 
