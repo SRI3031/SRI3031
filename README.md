@@ -1,6 +1,6 @@
 ![logo](https://github.com/SRI3031/SRI3031/blob/main/Black%20and%20White%20Modern%20Artificial%20Intelligence%20Presentation.jpg)
 <h1 align="center">Hi 👋, I'm SRIJEETA BISWAS</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri3031&label=Profile%20views&color=0e75b6&style=flat" alt="sri3031" /> </p>
 
