@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri3031&label=Profile%20views&color=0e75b6&style=flat" alt="sri3031" /> </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sri3031&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRI3031&show_icons=true&theme=radical)
 
 - 🔭 I’m currently pursuing **B.TECH(CSE-AIML)**
 
