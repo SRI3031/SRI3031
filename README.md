@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srijeeta-biswas-663b1a2a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijeeta-biswas" height="30" width="40" /></a>
 <a href="https://fb.com/srijeeta biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srijeeta biswas" height="30" width="40" /></a>
-<a href="https://instagram.com/sri_sambhabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_biswas103" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sri.shambhabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_biswas103" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
